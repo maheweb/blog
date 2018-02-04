@@ -1,5 +1,5 @@
 ###################
-ciBlog
+Blog
 ###################
 
 This is a simple blog application built on CodeIgniter 3.x. It is a very tiny ci application.
